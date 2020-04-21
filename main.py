@@ -2,7 +2,6 @@ from telegram.ext import Updater, CommandHandler
 from telegram import ParseMode
 import requests
 import re
-import yfinance as yf
 import logging
 import json
 from telegram.error import (TelegramError, Unauthorized, BadRequest, 
