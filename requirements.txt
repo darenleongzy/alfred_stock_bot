@@ -12,7 +12,7 @@ future==0.18.2
 idna==2.9
 lxml==4.5.0
 multitasking==0.0.9
-numpy==1.18.3
+numpy==1.22.0
 pandas==1.0.3
 parse==1.15.0
 pycparser==2.20
